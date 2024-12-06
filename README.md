@@ -18,4 +18,4 @@ Jira Ticketing System + Confluence Documentation (Create, review, update)
 Third Party Software & Application Support
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/matiasal) or [GitHub](https://github.com/m-atias-a).
+You can reach me at [LinkedIn](www.linkedin.com/in/m-atia-s) or [GitHub](www.linkedin.com/in/m-atia-s).
